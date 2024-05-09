@@ -87,8 +87,8 @@
 }
 
 .plyr__badge {
-    background: #4a5464;
-    background: var(--plyr-badge-background, #4a5464);
+    background: #000000;
+    background: var(--plyr-badge-background, #000000);
     border-radius: 2px;
     border-radius: var(--plyr-badge-border-radius, 2px);
     color: #fff;
